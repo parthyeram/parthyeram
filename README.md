@@ -50,7 +50,7 @@ An AI-powered digital platform designed to connect citizens, universities, and i
 - Collaboration between universities and industry partners
 - Impact tracking for proposed solutions
 
-[Project](https://github.com/parthyeram)
+• [Project](https://github.com/parthyeram) • [Live Demo](https://samvedana-setu-4zmd.vercel.app/)
 
 ---
 
@@ -65,7 +65,7 @@ A full-stack healthcare platform that helps users manage health records, doctor 
 - AI-powered HealthBot
 - WhatsApp medicine reminders
 
-[Repository](https://github.com/parthyeram/healthcare-with-whatsapp-notification) • [Live Demo](https://healthsmartcare.netlify.app/)
+• [Github Repository](https://github.com/parthyeram/healthcare-with-whatsapp-notification) • [Live Demo](https://healthsmartcare.netlify.app/)
 
 ---
 
